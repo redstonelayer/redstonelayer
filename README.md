@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/YouTube-%40redstonelayer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=1E1E2E&labelColor=F38BA8" alt="YouTube" />
 </a>
 
+---
+
 </div>
 
 <div align="center">
