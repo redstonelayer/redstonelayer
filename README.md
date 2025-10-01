@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/X-%40redstonelayer-000000?style=for-the-badge&logo=x&logoColor=white&color=1E1E2E&labelColor=F5F5F5" alt="X" />
 </a>
 <a href="https://youtube.com/@redstonelayer09" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%40redstonelayer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=1E1E2E&labelColor=F38BA8" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YT%40redstonelayer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=1E1E2E&labelColor=F38BA8" alt="YouTube" />
 </a>
 
 ---
